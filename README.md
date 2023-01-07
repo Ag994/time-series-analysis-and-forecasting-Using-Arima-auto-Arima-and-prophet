@@ -9,6 +9,6 @@ Installation
 To use the notebook in this repository, clone or download the repository and install the required packages using pip:
 
 ## Copy code
-pip install -r requirements.txt ( I will added soon )
+```pip install -r requirements.txt``` ( I will added soon )
 ## Usage
 To view the notebook, open the time-series-analysis-and-forecasting.ipynb file in Jupyter Notebook. The notebook contains explanations and examples of how to use ARIMA, auto-ARIMA, and Prophet for time series analysis and forecasting.
